@@ -26,7 +26,10 @@ Using the aboove criteria on the current employees list, the following are the r
    This data is saved in the attached CSV file "unique_titles".
    
 3. The list of 90,398 retiring employees has further been summarized into a table showing the number of employees retiring grouped by title and is as follows:
+     
+     ![image](https://user-images.githubusercontent.com/82583576/121682005-8247b580-ca89-11eb-999b-b308c021c8c9.png)
 
+       
    
 
 
