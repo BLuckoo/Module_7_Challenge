@@ -47,7 +47,7 @@ Using the aboove criteria on the current employees list, the following are the r
    
    Below is a summary of the elligible mentors by title 
     
-    ![image](https://user-images.githubusercontent.com/82583576/121684567-da33eb80-ca8c-11eb-8cfe-63bb6003fc50.png)
+  
 
 
 
