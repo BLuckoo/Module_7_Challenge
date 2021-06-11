@@ -14,7 +14,20 @@ The SQL concepts used in the analysis is comprised of:
 
 ## Retiring Employee Analysis Findings
 
+The retirement age criteria is for employees born between January 1, 1952 and December 31, 1955.
+Using the aboove criteria on the current employees list, the following are the results:
 
+1.  The total number of retiring employees who were born within the retirement age criteria amounts to 133,776 employees.
+    This data is saved in the attached CSV file "retirement_titles").
+    However, upon further analysis of the data, it was discovered that because the employees have had multiple titles over the years at Pewlett Hackard, further filtering of the data is required.
+    
+2. The duplicates were removed from the "retire_titles" by selecting the employees based on their current titles. 
+   This resulted in the list of retiring employees to amount to 90,398 employees.
+   This data is saved in the attached CSV file "unique_titles".
+   
+3. The list of 90,398 retiring employees has further been summarized into a table showing the number of employees retiring grouped by title and is as follows:
+
+   
 
 
 
