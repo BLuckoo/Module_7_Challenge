@@ -12,5 +12,18 @@ The SQL concepts used in the analysis is comprised of:
 - the data presented is being sorted using SQL statements
 - the required data is being saved and provided to the HR department in Excel files in CSV  format.
 
+## Retiring Employee Analysis Findings
 
+
+
+
+
+
+
+
+
+
+
+
+## Summary of the Analysis
 
