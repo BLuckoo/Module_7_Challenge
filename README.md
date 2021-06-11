@@ -29,7 +29,7 @@ Using the aboove criteria on the current employees list, the following are the r
      
      ![image](https://user-images.githubusercontent.com/82583576/121682005-8247b580-ca89-11eb-999b-b308c021c8c9.png)
 
-4.  To plan for the future, the HR Manager has been provided with a list of employees who were born between January 1, 1965 and December 31, 1965 who are elligible for a mentorship program.
+4.  To plan for the future, the HR Manager has been provided with a list of employees who were born between January 1, 1965 and December 31, 1965 who are elligible for a mentorship program. There is a total of 1,549 employees with different titles who are elligible for the mentorship program.
     This list is saved in the attached "mentorship_eligibility.CSV" file.
     
    
