@@ -42,21 +42,24 @@ Using the aboove criteria on the current employees list, the following are the r
     
 ## Summary of Analysis
    
-   The analysis has illustrated that for Pewlett Hackard to continue doing business as it is currently using the same processes and providing the same services, then there is a need to fill 90,398 employees.
+   - The analysis has illustrated that for Pewlett Hackard to continue doing business as it is currently using the same processes and providing the same services, then there is a need to fill 90,398 employees.
    
-   The roles to be filled, sorted by department are illustrated in the chart below:
+     The roles to be filled, sorted by department are illustrated in the chart below:
    
-   ![image](https://user-images.githubusercontent.com/82583576/121759939-223b2880-caf6-11eb-9512-ff25478fcaab.png)
+     ![image](https://user-images.githubusercontent.com/82583576/121759939-223b2880-caf6-11eb-9512-ff25478fcaab.png)
    
-   ![image](https://user-images.githubusercontent.com/82583576/121759960-3ed76080-caf6-11eb-96eb-a7a7e8ac8009.png)
+     ![image](https://user-images.githubusercontent.com/82583576/121759960-3ed76080-caf6-11eb-96eb-a7a7e8ac8009.png)
 
    
     
-   To do so, the company will have to train a number of its currently employees who are not retiring to be mentors to the new employees who will be replacing the retiring ones.
+   **To do so, the company will have to train a number of its currently employees who are not retiring to be mentors to the new employees who will be replacing the retiring ones.**
    
-   Using the criteria set by the company, 1,549 employees have been identified as potential mentors. This list is summarized below, showing the number of elligible mentors by department and by role.
+   - Using the criteria set by the company, 1,549 employees have been identified as potential mentors. This list is summarized below, showing the number of elligible mentors by department and by role.
     
-  ![image](https://user-images.githubusercontent.com/82583576/121759378-6da00780-caf3-11eb-9474-52a530333327.png)
+     ![image](https://user-images.githubusercontent.com/82583576/121759378-6da00780-caf3-11eb-9474-52a530333327.png)
+     
+   - From the tables above, there is a need to potentially review the criteria for elligible mentors as there are a number of positions, especially in the customer service and research departments that do not have any elligible mentors.
+   - The average percentage of elligible mentors compared to total number of retiring employees by department amount to 1.7%. The Human Resources department of Pewlett Hackard will have to decide if that percentage is appropriate or not.    
 
 
 
