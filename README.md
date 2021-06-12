@@ -1,7 +1,7 @@
 ## Overview of the Analysis
 
 The objective of this analysis is to provide the Pewlett-Hackard HR Manager with the correct information to plan for upcoming retirements and ensuring that there are enough employees to fill the vacant positions.
-To do so, data modelling, engineering and analysis techniques will be used on data originally kept in Excel and CSV files which have been transferred in tables using SQL.
+To do so, data modelling, engineering and analysis techniques were used on data originally kept in Excel and CSV files which have been transferred in tables using SQL.
 
 The analysis will provide the HR Manager with **the number of retiring employees per title** and **identify the employees who are eligible to participate in a mentorship program.**
 
@@ -38,7 +38,7 @@ Applying those criteria to the current employee list generates the following res
 
     
 
-4.  To plan for the future, the HR Manager has been provided with a list of employees who were born between January 1, 1965 and December 31, 1965 who are eligible for a mentorship program. There is a total of 1,549 employees with different titles who are eligible for the mentorship program.
+4.  To plan for the future, the HR Manager has been provided with a list of employees who were born between January 1, 1965 and December 31, 1965 who are eligible for a mentorship program. There is a total of 1,549 employees with different job titles who are eligible for the mentorship program.
     This list is saved in the attached "mentorship_eligibility.CSV" file.
     
     
