@@ -54,7 +54,7 @@ Applying those criteria to the current employee list generates the following res
 
    
     
-   **To do so, the company will have to train a number of its currently employees who are not retiring to be mentors to the new employees who will be replacing the retiring ones.**
+   **The company will need to train eligible employees to be mentors to new employees hired to replace the retirees.**
    
    - Using the criteria set by the company, 1,549 employees have been identified as potential mentors. This list is summarized below, showing the number of eligible mentors by department and by role.
     
