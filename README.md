@@ -42,12 +42,14 @@ Using the aboove criteria on the current employees list, the following are the r
     
 ## Summary of Analysis
    
-   The analysis has illustrated that for Pewlett Hackard to continue doing business as it is currently, then there is a need to fill 90,398 employees.
+   The analysis has illustrated that for Pewlett Hackard to continue doing business as it is currently using the same processes and providing the same services, then there is a need to fill 90,398 employees.
    
+   To do so, the company will have to train a number of its currently employees who are not retiring to be mentors to the new employees who will be replacing the retiring ones.
    
-   Below is a summary of the elligible mentors by title 
+   Using the criteria set by the company, 1,549 employees have been identified as potential mentors. This list is summarized below, showing the number of elligible mentors by department and by role.
     
-  
+  ![image](https://user-images.githubusercontent.com/82583576/121759378-6da00780-caf3-11eb-9474-52a530333327.png)
+
 
 
 
