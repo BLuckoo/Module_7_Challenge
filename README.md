@@ -62,7 +62,7 @@ Applying those criteria to the current employee list generates the following res
    
    - The average percentage of eligible mentors compared to total number of retiring employees by department amount to 1.7%. The Human Resources department of Pewlett Hackard will have to decide if that percentage is appropriate.    
    
-**To conclude, the Human Resources department at Pewlett Hackard will be very busy going through the data provided and it was a pleasure working with Bobby and the Human Resources team.**
+**To conclude, this analysis has provided a lot of information to Pewlett Hackard and we will be pleased to provide further analysis if required.**
 
 
 
