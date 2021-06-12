@@ -44,7 +44,7 @@ Applying those criteria to the current employee list generates the following res
     
 ## Summary of Analysis
    
-   - The analysis has illustrated that for Pewlett Hackard to continue doing business as it is currently using the same processes and providing the same services, then there is a need to fill 90,398 employees.
+   - In order for Pewlett Hackard to continue its business in this current state – it will require the replacement of 90,398 positions.
    
      The roles to be filled, sorted by department are illustrated in the chart below:
    
