@@ -59,6 +59,7 @@ Applying those criteria to the current employee list generates the following res
      ![image](https://user-images.githubusercontent.com/82583576/121759378-6da00780-caf3-11eb-9474-52a530333327.png)
      
    - There should be a review of the criteria used to be an eligible mentor as there are some positions without eligible mentors. This is particularly the case in the customer service and research department as illustrated in the attached "Retiring_employees_vs_Eligible_mentors.xlsx" file.
+      https://github.com/BLuckoo/Module_7_Challenge/blob/main/Retiring_employees_vs_Eligible_mentors.xlsx 
    
    
    - The average percentage of eligible mentors compared to total number of retiring employees by department amount to 1.7%. The Human Resources department of Pewlett Hackard will have to decide if that percentage is appropriate.    
