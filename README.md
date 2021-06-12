@@ -5,7 +5,7 @@ To do so, data modelling, engineering and analysis techniques will be used on da
 
 The analysis will provide the HR Manager with **the number of retiring employees per title** and **identify the employees who are elligible to participate in a mentorship program.**
 
-The SQL concepts used in the analysis is comprised of:
+The SQL concepts used in the analysis are comprised of:
 - joining multiple data tables using common fields to the tables (known as primary keys) being joined
 - using conditional statements to filter certain data out of the queries
 - a SQL statement known as UNIQUE is being used to exclude duplicate data
