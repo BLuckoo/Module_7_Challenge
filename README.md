@@ -21,6 +21,7 @@ Applying those criteria to the current employee list generates the following res
 1.  A total of 133,766 employees met the retirement age criteria that were set. 
     This data is saved in the attached CSV file "retirement_titles". 
     However further filtering of this data is required due to employees having multiple job titles over the years at Pewlett Hackard – thus creating duplicates that need to be filtered out.
+    https://github.com/BLuckoo/Module_7_Challenge/blob/main/retirement_titles.csv 
     
 
 2. The duplicate records were removed from the “retirement_titles" by selecting employees based on their current job titles. The application of this filter resulted in the list of retiring employees to be narrowed down to 90,398 employees. 
