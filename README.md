@@ -54,9 +54,7 @@ Applying those criteria to the current employee list generates the following res
 
   - **Of the pool of retirees, 45,397 (almost 50% of the retirees) have an engineering job title. Special focus should be applied to the mentoring and hiring of this category of employees.**
     
-   **The company will need to train eligible employees to be mentors to new employees hired to replace the retirees.**
-   
-   - Using the criteria set by the company, 1,549 employees have been identified as potential mentors. This list is summarized below, showing the number of eligible mentors by department and by role.
+  - Using the criteria set by the company, 1,549 employees have been identified as potential mentors. This list is summarized below, showing the number of eligible mentors by department and by role.
     
      ![image](https://user-images.githubusercontent.com/82583576/121759378-6da00780-caf3-11eb-9474-52a530333327.png)
      
