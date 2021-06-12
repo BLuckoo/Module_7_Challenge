@@ -29,6 +29,7 @@ Applying those criteria to the current employee list generates the following res
     https://github.com/BLuckoo/Module_7_Challenge/blob/main/unique_titles.csv 
    
 3. The list of 90,398 retiring employees has been grouped by job title as shown in the table below (also found in the attached "retiring_titles.CSV" file):
+   https://github.com/BLuckoo/Module_7_Challenge/blob/main/retiring_titles.csv 
      
      ![image](https://user-images.githubusercontent.com/82583576/121682005-8247b580-ca89-11eb-999b-b308c021c8c9.png)
 
