@@ -60,6 +60,8 @@ Using this criteria on the current employees list, the following are the results
      
    - From the tables above, there is a need to potentially review the criteria for elligible mentors as there are a number of positions, especially in the customer service and research departments that do not have any elligible mentors.
    - The average percentage of elligible mentors compared to total number of retiring employees by department amount to 1.7%. The Human Resources department of Pewlett Hackard will have to decide if that percentage is appropriate or not.    
+   
+**To conclude, the Human Resources department at Pewlett Hackard will be very busy going through the data provided and it was a pleasure working with Bobby and the Human Resources team.**
 
 
 
