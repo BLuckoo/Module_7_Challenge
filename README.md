@@ -15,10 +15,8 @@ The SQL concepts used in the analysis are comprised of:
 ## Retiring Employees Analysis Findings
 
 The criteria set for retirement is based on employees born between January 1, 1952 and December 31, 1955. 
+
 Applying those criteria to the current employee list generates the following results:
-
-
-Using this criteria on the current employees list, the following are the results:
 
 1.  A total of 133,766 employees met the retirement age criteria that were set. 
     This data is saved in the attached CSV file "retirement_titles". 
