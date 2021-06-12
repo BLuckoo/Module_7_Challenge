@@ -35,7 +35,6 @@ Applying those criteria to the current employee list generates the following res
     
     ![image](https://user-images.githubusercontent.com/82583576/121755629-a9cc6b80-cae5-11eb-91a7-462428096d18.png)
 
-    ***Of the pool of retirees, 45,397 (almost 50% of the retirees) have an engineering job title. Special focus should be applied to the mentoring and hiring of this category of employees.***
 
     
 
@@ -53,7 +52,7 @@ Applying those criteria to the current employee list generates the following res
    
      ![image](https://user-images.githubusercontent.com/82583576/121759960-3ed76080-caf6-11eb-96eb-a7a7e8ac8009.png)
 
-   
+  - **Of the pool of retirees, 45,397 (almost 50% of the retirees) have an engineering job title. Special focus should be applied to the mentoring and hiring of this category of employees.**
     
    **The company will need to train eligible employees to be mentors to new employees hired to replace the retirees.**
    
